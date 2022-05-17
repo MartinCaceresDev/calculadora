@@ -1,13 +1,13 @@
 .display {
   background-color:#0a0a23;
-  width: 90%;
+  width: 81%;
   height: 18%;
   display: flex;
   justify-content: flex-end;
   align-items: center;
   user-select: none;
   color: white;
-  border: thin solid black;
+  border: 0.2vw solid black;
   font-size: 7vh;
   padding-right: 3vw;
   font-weight: bold;
