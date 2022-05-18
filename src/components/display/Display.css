@@ -11,5 +11,6 @@
   font-size: 7vh;
   padding-right: 3vw;
   font-weight: bold;
-  margin-bottom: 3vh;
+  margin-bottom: 1.7vh;
+  overflow: hidden;
 }

@@ -13,8 +13,8 @@
 }
 
 .calculadora {
-  flex-basis: 350px;
-  height: 80vh;
+  flex: 0 1 310px;
+  height: 68vh;
   background-color:#99c9ff;
   border: 0.2vw solid rgb(31, 30, 30);
   border-radius: 2v;
@@ -22,14 +22,15 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  padding: 2vh 0 1vh;
+  padding: 2vh 1vh 1vh;
+  margin: 0 2vw;
 }
 
 .fila {
   display: flex;
-  width: 90%;
-  height: 15vh;
-  min-height: 14%;
+  width: 88%;
+  height: 7.5vh;
+  min-height: 8%;
   justify-content: space-between;
   align-items: stretch;
 }
